@@ -25225,6 +25225,8 @@ margin-top: 20px;
 }#bar-chart .x-axis .year .col .bar {
   margin: 0px 2px;
   border-radius: 50px;
+}.mobileview{
+  display: block !important;
 }
 }
 
@@ -25238,4 +25240,8 @@ margin-top: 20px;
   position: absolute;
   left: 0;
   top: 0;
+}
+
+.mobileview{
+  display: none;
 }
